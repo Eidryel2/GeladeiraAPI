@@ -1,0 +1,14 @@
+C:\Users\adrie\Videos\GeladeiraRDI\NewRepository\bin\Debug\net8.0\NewRepository.deps.json
+C:\Users\adrie\Videos\GeladeiraRDI\NewRepository\bin\Debug\net8.0\NewRepository.runtimeconfig.json
+C:\Users\adrie\Videos\GeladeiraRDI\NewRepository\bin\Debug\net8.0\NewRepository.dll
+C:\Users\adrie\Videos\GeladeiraRDI\NewRepository\bin\Debug\net8.0\NewRepository.pdb
+C:\Users\adrie\Videos\GeladeiraRDI\NewRepository\obj\Debug\net8.0\NewRepository.csproj.AssemblyReference.cache
+C:\Users\adrie\Videos\GeladeiraRDI\NewRepository\obj\Debug\net8.0\NewRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\Videos\GeladeiraRDI\NewRepository\obj\Debug\net8.0\NewRepository.AssemblyInfoInputs.cache
+C:\Users\adrie\Videos\GeladeiraRDI\NewRepository\obj\Debug\net8.0\NewRepository.AssemblyInfo.cs
+C:\Users\adrie\Videos\GeladeiraRDI\NewRepository\obj\Debug\net8.0\NewRepository.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Videos\GeladeiraRDI\NewRepository\obj\Debug\net8.0\NewRepository.dll
+C:\Users\adrie\Videos\GeladeiraRDI\NewRepository\obj\Debug\net8.0\refint\NewRepository.dll
+C:\Users\adrie\Videos\GeladeiraRDI\NewRepository\obj\Debug\net8.0\NewRepository.pdb
+C:\Users\adrie\Videos\GeladeiraRDI\NewRepository\obj\Debug\net8.0\NewRepository.genruntimeconfig.cache
+C:\Users\adrie\Videos\GeladeiraRDI\NewRepository\obj\Debug\net8.0\ref\NewRepository.dll

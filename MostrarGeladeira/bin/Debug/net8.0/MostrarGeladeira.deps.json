@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MostrarGeladeira/1.0.0": {
+        "dependencies": {
+          "GELADEIRA": "1.0.0"
+        },
+        "runtime": {
+          "MostrarGeladeira.dll": {}
+        }
+      },
+      "GELADEIRA/1.0.0": {
+        "runtime": {
+          "GELADEIRA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MostrarGeladeira/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GELADEIRA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
